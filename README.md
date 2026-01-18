@@ -1,4 +1,4 @@
-#  Sinyal İşleme ve Makine Öğrenmesi : İki Aşamalı Hibrit Ses Tanıma Sistemi
+#  Sinyal İşleme ve Makine Öğrenmesi : Gerçek Zamanlı İki Aşamalı Hibrit Ses Tanıma Sistemi
 ###### Swipe down for English
 Bu proje, Türkçe ve İngilizce dillerinde çalışan, iki aşamalı kademeli (**Cascaded**) mimariye sahip gelişmiş bir sesli komut tanıma sistemidir. Sistem, ham ses verisini gerçek zamanlı işleyerek düşük gecikme süresi ve yüksek doğrulukla akıllı ev komutlarını yerine getirir.
 
@@ -57,7 +57,7 @@ Sistemi çalıştırmak için gerekli kütüphaneler:
 
 * **ERDEM TOSUN**
 
-# Signal Processing and Machine Learning : Cascaded Hybrid Voice Controller
+# Signal Processing and Machine Learning : Real Time Cascaded Hybrid Voice Controller
 
 This project is an advanced voice command recognition system featuring a two-stage **Cascaded** architecture, supporting both Turkish and English languages. The system processes raw audio in real-time to execute smart home commands with ultra-low latency and high precision.
 
@@ -117,3 +117,4 @@ Install the required dependencies:
 ## 🎓 Developer
 
 * **Erdem Tosun**
+
